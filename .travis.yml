@@ -1,4 +1,6 @@
 language: c
+os: linux
+arch: ppc64le
 sudo: required
 env:
   global:
